@@ -1,4 +1,4 @@
 {
-  "finalKeyOut": true,
-  "resultsOut": true
+  "finalKeyOut": false,
+  "resultsOut": false
 }
